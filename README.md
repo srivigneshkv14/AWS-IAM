@@ -39,4 +39,5 @@ Authentication is the process of verifying an entity's identity by validating th
 Authorization determines what actions an authenticated entity can perform on specific AWS resources. It's managed through policies, which are JSON documents defining the permitted or denied actions. 
 
    • Identity-based policies
+   
    • Resource-based policies
